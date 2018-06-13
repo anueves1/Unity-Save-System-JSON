@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tavip\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Unity-Save-System-JSON.1023871183.00" t="ExcludeRecursive" />
+    <e p="E:\Unity-Save-System-JSON" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="UnitySaveSystem" t="Include">
+          <e p="Base" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Manager" t="Include">
+                <e p="SaveManagerComponent.cs" t="Include" />
+                <e p="SaveManagerSystem.cs" t="Include" />
+              </e>
+              <e p="Saving" t="Include">
+                <e p="Savable.cs" t="Include" />
+              </e>
+              <e p="Test" t="Include">
+                <e p="DataTypesComponent.cs" t="Include" />
+                <e p="DataTypesSystem.cs" t="Include" />
+              </e>
+              <e p="Utility" t="Include">
+                <e p="JSONSolver.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Unity-Save-System-JSON.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
